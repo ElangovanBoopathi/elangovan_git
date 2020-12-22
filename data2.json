@@ -1,0 +1,31 @@
+{
+	"Test": [
+		{
+			"TagName": "domain/subdomain/activeenery-total",
+			"Value": 1000,
+			"TimeStamp": "15/08/2020",
+			"": "",
+			"edit": 1,
+			"edit2": 2,
+			"e3": 3
+		},
+		{
+			"TagName": "domain/subdomain/320-tr/value",
+			"Value": 8.1,
+			"TimeStamp": "11/08/2020",
+			"": "",
+			"edit": 1,
+			"edit2": 2,
+			"e3": 3
+		},
+		{
+			"TagName": "domain/subdomain/activeenery-total",
+			"Value": 1050,
+			"TimeStamp": "19/08/2020",
+			"": "",
+			"edit": 1,
+			"edit2": 2,
+			"e3": 3
+		}
+	]
+}
