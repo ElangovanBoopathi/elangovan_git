@@ -1,6 +1,7 @@
 {
 	"test": [		
 		"T20_match",
-		"Approved"
+		"Approved",
+		"Cancelled"
 	]
 }
