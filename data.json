@@ -1,9 +1,5 @@
 {
-	"test": [
-		"France",
-		"United States",
-		"TEstMAtch",
-		"OneDay_MATCH",
+	"test": [		
 		"T20_match",
 		"Approved"
 	]
