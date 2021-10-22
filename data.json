@@ -2,6 +2,7 @@
 	"test": [		
 		"T20_match",
 		"Approved",
-		"Cancelled"
+		"Cancelled",
+		"One-DAy"
 	]
 }
