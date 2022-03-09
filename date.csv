@@ -1,8 +1,8 @@
-TagName,Value,TimeStamp
-domain/subdomain/activeenery-total,1000,18/05/2020
-domain/subdomain/320-tr/value,8.1,18/05/2020
-domain/subdomain/activeenery-total,1050,14/05/2020
-domain/subdomain/activeenery-total,100,06/30/2020
-domain/subdomain/activeenery-total,101,05/30/2020
-domain/subdomain/activeenery-total,102,04/30/2020
-domain/subdomain/activeenery-total,103,03/30/2020
+TagName,Value,TimeStamp,test_column
+domain/subdomain/activeenery-total,1000,18/05/2020,t1
+domain/subdomain/320-tr/value,8.1,18/05/2020,t2
+domain/subdomain/activeenery-total,1050,14/05/2020,t3
+domain/subdomain/activeenery-total,100,06/30/2020,t4
+domain/subdomain/activeenery-total,101,05/30/2020,t5
+domain/subdomain/activeenery-total,102,04/30/2020,t6
+domain/subdomain/activeenery-total,103,03/30/2020,t7
