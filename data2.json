@@ -26,6 +26,15 @@
 			"edit": 1,
 			"edit2": 2,
 			"e3": 3
+		},		
+		{
+			"TagName": "domain/subdomain/activeenery-total",
+			"Value": 2022,
+			"TimeStamp": "19/08/2022",
+			"": "",
+			"edit": 123,
+			"edit2": 1234,
+			"e3": 222222
 		}
 	]
 }
