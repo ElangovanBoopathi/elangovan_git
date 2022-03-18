@@ -7,7 +7,9 @@
 			"display_name": "Jam",
 			"T5": "test Sampleton1",
 			"T6": "test Sampletondfgdsf1",
-			"T7": "test"
+			"T7": "test",
+			"GG7": "test",
+			
 		},
 		{
 			"id_3": 234,
@@ -16,7 +18,8 @@
 			"display_name": "drtr ",
 			"T5": "test",
 			"T6": "test",
-			"T7": "test"
+			"T7": "test",
+			"GG7": "test",
 		},		
 		{
 			"id_3": 24567,
@@ -25,7 +28,8 @@
 			"display_name": "wetrry ",
 			"T5": "test1",
 			"T6": "test2",
-			"T7": "test3"
+			"T7": "test3",
+			"GG7": "test",
 		}
 	]
 }
